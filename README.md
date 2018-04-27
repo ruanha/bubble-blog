@@ -4,9 +4,9 @@ Nothing to see here really. I'm just learning web development and how to use git
 
 To run on localhost type in terminal:
 
-$ FLASK_APP_DEBUG=1
+$ export FLASK_DEBUG=1
 
-$ FLASK_APP=microblog.py
+$ export FLASK_APP=microblog.py
 
 $ flask run
 
